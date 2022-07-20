@@ -1,4 +1,4 @@
-### Hi there 👋
+### 오.. 되게 신기해 ㅋㅋ 👋
 
 <!--
 **hyeonslove/hyeonslove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
