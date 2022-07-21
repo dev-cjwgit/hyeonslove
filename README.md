@@ -11,4 +11,4 @@
 ![snake gif](https://github.com/hyeonslove/hyeonslove/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonslove&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonslove&layout=compact&theme=default)
