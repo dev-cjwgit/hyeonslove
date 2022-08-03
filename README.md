@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"> : CUDA
 
 ![snake gif](https://github.com/hyeonslove/hyeonslove/blob/output/github-contribution-grid-snake.svg)
 
